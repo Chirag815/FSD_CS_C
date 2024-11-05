@@ -1,0 +1,21 @@
+#top
+{
+    background-color: black;
+    border: 5px solid green;
+    font-size: 20px;
+
+}
+h1{
+    color:black;
+    background-color: aqua;
+    width: 30%;
+}
+a{
+    text-decoration: overline;
+    color: blue;
+    width: 40%;
+}
+h2{
+    font-size: 20px;
+    color: brown;
+}
